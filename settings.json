@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AFK-BOT",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "all-end.aternos.me",
     "port": 54328,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
